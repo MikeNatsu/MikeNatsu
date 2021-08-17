@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mikenatsu&label=Profile%20views&color=2d383e&style=flat" alt="mikenatsu" /> </p>
 
-- 🌱 I’m currently learning **NestJS**
+- 🌱 I’m currently learning **Rust**
 
 - ⚡ Fun fact **A programmer is not a PC repairman.**
 
